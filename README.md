@@ -1,4 +1,5 @@
-NLP projects 
+-- NLP projects --
+------------------
 
 Project1: Universal part of speech tagging with Hidden Markov Model (HMM): Developed with Pomegranate python
 library, Brown corpus dataset and universal tagset
